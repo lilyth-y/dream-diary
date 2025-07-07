@@ -13,7 +13,7 @@ import LoadingScreen from '../../components/LoadingScreen';
 import { ThemedText } from '../../components/ThemedText';
 import { Dream } from '../../dreamService';
 
-const pastelGradient = require('../../assets/images/pastel-bg.png'); 
+const pastelGradient = require('../../assets/images/pastel-bg.png'); // 그라데이션 배경 이미지(없으면 나중에 추가)
 const defaultProfileImg = require('../../assets/images/icon.png');
 
 // Storage에 이미지 업로드 후 다운로드 URL 반환 (웹/앱 분기)
